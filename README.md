@@ -1,2 +1,2 @@
-# SDM
+# SDI
 Software Design &amp; Implementation 
